@@ -1,16 +1,17 @@
-### Hi there 👋
+# Emilio Peláez
+**iOS Developer since 2009, sherlocked in 2011**. He/Him.
+Senior Developer @ [Modus Create](https://github.com/ModusCreateOrg)
+Read about me on my [Website](http://emiliopelaez.me) or find me on [Twitter](https://twitter.com/EmilioPelaez)
 
-<!--
-**EmilioPelaez/EmilioPelaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## AppStore
+ - [Action! Countdowns](https://apps.apple.com/us/app/action-countdowns/id1457799658) - Beautiful, simple countdowns!
+ - [Speed Dial Widgets](https://apps.apple.com/us/app/phone-home-widgets/id1550574694) - Contacts on your Home Screen!
+ - [Valenbisi](https://apps.apple.com/us/app/valenbisi-stations/id1530171896) - Bike Sharing information for Valencia!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Articles
+ - [Recreating Instagram’s Page Control](https://medium.com/@Pelaez/recreating-instagrams-page-control-ebc2103b8a39)
+ - [I Haven’t Used a Light Switch in over a Year](https://medium.com/@Pelaez/i-havent-used-a-light-switch-in-over-a-year-c9261abb8912)
+ - [Beyond Constraints: Crafting Advanced iOS Animations with Auto Layout](https://savvyapps.com/blog/advanced-ios-animations-with-auto-layout)
+ - [Tips for Creating Your Own Interactive iOS Animations](https://savvyapps.com/blog/tips-create-your-own-interactive-ios-animations)
