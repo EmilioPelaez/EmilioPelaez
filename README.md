@@ -1,6 +1,8 @@
 # Emilio Peláez
 **iOS Developer since 2009, sherlocked in 2011**. He/Him.
+
 Senior Developer @ [Modus Create](https://github.com/ModusCreateOrg)
+
 Read about me on my [Website](http://emiliopelaez.me) or find me on [Twitter](https://twitter.com/EmilioPelaez)
 
 
