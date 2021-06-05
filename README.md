@@ -7,9 +7,10 @@ Read about me on my [Website](http://emiliopelaez.me) or find me on [Twitter](ht
 
 
 ## AppStore
- - [Action! Countdowns](https://apps.apple.com/us/app/action-countdowns/id1457799658) - Beautiful, simple countdowns!
- - [Speed Dial Widgets](https://apps.apple.com/us/app/phone-home-widgets/id1550574694) - Contacts on your Home Screen!
- - [Valenbisi](https://apps.apple.com/us/app/valenbisi-stations/id1530171896) - Bike Sharing information for Valencia!
+ - [Action! Countdowns](https://apps.apple.com/us/app/action-countdowns/id1457799658) - Beautiful, simple countdowns
+ - [Capsule Private Storage](https://apps.apple.com/us/app/capsule-private-storage/id1558429748) - Keep your eyes away from prying eyes
+ - [Speed Dial Widgets](https://apps.apple.com/us/app/phone-home-widgets/id1550574694) - Contacts on your Home Screen
+ - [Valenbisi](https://apps.apple.com/us/app/valenbisi-stations/id1530171896) - Bike Sharing information for Valencia
 
 
 ## Articles
