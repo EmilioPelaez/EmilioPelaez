@@ -21,7 +21,6 @@ Read about me on my [Website](http://emiliopelaez.me) or find me on [Twitter](ht
 
 
 ## Articles
+ - [Building a Responder Chain Using the SwiftUI View Hierarchy](https://medium.com/p/2a08df23689c)
  - [Recreating Instagram’s Page Control](https://medium.com/@Pelaez/recreating-instagrams-page-control-ebc2103b8a39)
  - [I Haven’t Used a Light Switch in over a Year](https://medium.com/@Pelaez/i-havent-used-a-light-switch-in-over-a-year-c9261abb8912)
- - [Beyond Constraints: Crafting Advanced iOS Animations with Auto Layout](https://savvyapps.com/blog/advanced-ios-animations-with-auto-layout)
- - [Tips for Creating Your Own Interactive iOS Animations](https://savvyapps.com/blog/tips-create-your-own-interactive-ios-animations)
